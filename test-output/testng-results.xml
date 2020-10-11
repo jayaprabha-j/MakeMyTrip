@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-11T14:23:12 IST" name="Default suite" finished-at="2020-10-11T14:26:09 IST" duration-ms="176660">
+    <groups>
+    </groups>
+    <test started-at="2020-10-11T14:23:12 IST" name="Default test" finished-at="2020-10-11T14:26:09 IST" duration-ms="176660">
+      <class name="com.pages.MakeMyTripProject">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.pages.MakeMyTripProject@37858383]" started-at="2020-10-11T14:23:12 IST" name="OpenBrowser" finished-at="2020-10-11T14:23:19 IST" duration-ms="7336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="CreateAccount()[pri:0, instance:com.pages.MakeMyTripProject@37858383]" started-at="2020-10-11T14:23:19 IST" name="CreateAccount" finished-at="2020-10-11T14:26:07 IST" duration-ms="168147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAccount -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.pages.MakeMyTripProject@37858383]" started-at="2020-10-11T14:26:07 IST" name="CloseBrowser" finished-at="2020-10-11T14:26:09 IST" duration-ms="1089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.pages.MakeMyTripProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
